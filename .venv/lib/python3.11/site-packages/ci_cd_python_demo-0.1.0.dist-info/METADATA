@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ci-cd-python-demo
+Version: 0.1.0
+Summary: Demo project for CI/CD with GitHub Actions
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
+# CI/CD Python Demo
+Small project to demonstrate CI (lint+tests) and CD (GitHub Release on tag).

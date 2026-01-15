@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/calc/__init__.py
+src/calc/core.py
+src/ci_cd_python_demo.egg-info/PKG-INFO
+src/ci_cd_python_demo.egg-info/SOURCES.txt
+src/ci_cd_python_demo.egg-info/dependency_links.txt
+src/ci_cd_python_demo.egg-info/top_level.txt
+tests/test_core.py
